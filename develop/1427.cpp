@@ -3,7 +3,7 @@
 #include <cstring>
 #include <math.h>
 #include <vector>
-#include <array>		//진행중 정렬쪽임
+#include <array>		//진행중 정렬쪽임 
 using namespace std;
 
 class Abc
